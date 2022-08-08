@@ -773,4 +773,8 @@ section{
     display: flex;
     align-items: center;
     padding-bottom: 16px;
+    color: #444444;
+}
+.footer-box2 a:hover{
+    color: #086CF9;
 }
